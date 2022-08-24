@@ -230,6 +230,7 @@ p {
     width: fit-content;
     border: none;
     box-shadow: none;
+    background-color:#F8C7CF;
 }
 
 .opciones-btn-salir{
@@ -311,7 +312,7 @@ p {
     padding: 2rem;
     margin-inline-start: 4rem;
     position: sticky;
-    top: 10px;
+    top: 4rem;
 }
 
 .photo-user-perfil{
